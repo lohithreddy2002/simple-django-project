@@ -86,10 +86,10 @@ WSGI_APPLICATION = 'panorbit.wsgi.application'
 DATABASES = { 
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'world',
-        'USER': 'root',
-        'PASSWORD': 'xxxx',
-        'HOST': 'localhost',
+        'NAME': 'sql6478579',
+        'USER': 'sql6478579',
+        'PASSWORD': 'fFXixcJzpG',
+        'HOST': 'sql6.freesqldatabase.com',
         'PORT': '3306',
     }   
 }
